@@ -60,8 +60,21 @@ github "xquartz",     "1.2.1"
 
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
+
+github "iterm2",          "1.2.5"
+github "wget",            "1.0.1"
+github "virtualbox",      "1.0.13"
+github "vagrant",         "3.3.1"
+github "java",            "1.6.0"
+github "postgresql",      "4.0.1"
+github "chrome",          "1.2.0"
+github "dropbox",         "1.3.0"
+github "osx",             "2.7.0"
+github "skype",           "1.0.8"
+github "zsh",             "1.0.0"
+github "flowdock",        "1.0.0"
+
 # github "elasticsearch", "2.8.0"
 # github "mysql",         "2.0.1"
-# github "postgresql",  "4.0.1"
 # github "redis",       "3.1.0"
 # github "sysctl",      "1.0.1"
